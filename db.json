@@ -7,15 +7,22 @@
         },
         
         {
-            "id2": 2,
-            "name2": "Vadim",
-            "status2": "pro"
+            "id": 2,
+            "name": "Vadim",
+            "status": "pro"
         },
 
         {
-            "id3": 3,
-            "name3": "Denis",
-            "status3": "pro"
+            "id": 3,
+            "name": "Denis",
+            "status": "pro"
         }
+    ],
+    
+    "produkts": [
+        {
+
+        }
+
     ]
 }
