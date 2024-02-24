@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Lev",
+            "status": "pro"
+        },
+        
+        {
+            "id2": 2,
+            "name2": "Vadim",
+            "status2": "pro"
+        },
+
+        {
+            "id3": 3,
+            "name3": "Denis",
+            "status3": "pro"
+        }
+    ]
+}
