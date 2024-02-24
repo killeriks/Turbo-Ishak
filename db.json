@@ -20,6 +20,29 @@
     ],
 
     "products": [
-        
+        {
+            "name": "TurboIshak fast",
+            "speed": "1300km/h",
+            "price": "899.99$"
+        },
+        {
+            "name": "TurboIshak middle",
+            "speed": "700km/h",
+            "price": "599.99$"
+        },
+        {
+            "name": "TurboIshak slow",
+            "speed": "200km/h",
+            "price": "299.99$"
+        },
+        {
+            "name":"Ishak's fuel",
+            "price": "199.99$"
+        },
+        {
+            "name": "saddle",
+            "price": "99.99$"
+        }
+
     ]
 }
