@@ -21,19 +21,22 @@
 
     "products": [
         {
-            "turbo-iszak-fast": "1300km/h",
+            "name": "TurboIshak fast",
+            "speed": "1300km/h",
             "price": "899.99$"
         },
         {
-            "turbo-ishak-midle": "700km/h",
+            "name": "TurboIshak middle",
+            "speed": "700km/h",
             "price": "599.99$"
         },
         {
-            "turbo-iszak-slowButNo": "200km/h",
+            "name": "TurboIshak slow",
+            "speed": "200km/h",
             "price": "299.99$"
         },
         {
-            "product":"Топливо для Ишака",
+            "name":"Ishak's fuel",
             "price": "199.99$"
         }
     ]
