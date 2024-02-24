@@ -42,6 +42,11 @@
         {
             "name": "saddle",
             "price": "99.99$"
+        },
+        {
+            "name": "horseshoes",
+            "price": "199.99$",
+            "number": "4"
         }
 
     ]
