@@ -23,30 +23,36 @@
         {
             "name": "TurboIshak fast",
             "speed": "1300km/h",
-            "price": "899.99$"
+            "price": "899.99$",
+            "id": "0"
         },
         {
             "name": "TurboIshak middle",
             "speed": "700km/h",
-            "price": "599.99$"
+            "price": "599.99$",
+            "id": "1"
         },
         {
             "name": "TurboIshak slow",
             "speed": "200km/h",
-            "price": "299.99$"
+            "price": "299.99$",
+            "id": "2"
         },
         {
             "name":"Ishak's fuel",
-            "price": "199.99$"
+            "price": "199.99$",
+            "id": "3"
         },
         {
             "name": "saddle",
-            "price": "99.99$"
+            "price": "99.99$",
+            "id": "4"
         },
         {
             "name": "horseshoes",
             "price": "199.99$",
-            "number": "4"
+            "number": "4",
+            "id": "5"
         }
 
     ]
